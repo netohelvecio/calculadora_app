@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_botao">30sp</dimen>
+    <dimen name="tamanho_botao2">20sp</dimen>
+    <dimen name="tamanho_texto">20sp</dimen>
+</resources>
